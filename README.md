@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Sergio 👋
+
+I'm a software engineer located in Madrid, Spain. I currently work as a full stack developer specialized in .NET Core.
 
 <!--
 **echosergio/echosergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

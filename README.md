@@ -7,7 +7,8 @@ I'm a software engineer located in Madrid, Spain. I currently work as a full sta
 #### OpositandoPN
 
 Creator and maintainer of the OpositandoPN platform: [opositandopn.com](https://opositandopn.com/)  
-OpositandoPN is a virtual platform where students can complement their preparation for the knowledge test required to enrol in the Spanish National Police Academy.
+
+OpositandoPN is a virtual platform where students can complement their preparation for the knowledge test required to enrol in the Spanish National Police Academy written in React + .NET Core.
 
 #### Scribe
 

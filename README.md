@@ -19,7 +19,7 @@ A simple VSTS Release event integration with Freshservice written in Go, check o
 
 ### 📫 How to reach me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sergiovhe/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/echosergio/)
 
 <!--
 **echosergio/echosergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi, I'm Sergio 👋
 
-I'm a software engineer located in Madrid, Spain. I currently work as a full stack developer specialized in .NET Core.
+I'm a enthusiastic software engineer located in Madrid, Spain. I currently work as a full stack developer specialized in .NET Core.
 
 ### 🚀 Personal projects
 

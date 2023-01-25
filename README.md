@@ -2,18 +2,6 @@
 
 I'm a enthusiastic software engineer located in Madrid, Spain. I currently work as a full stack developer specialized in .NET Core.
 
-### 🚀 Personal projects
-
-#### OpositandoPN
-
-Creator and maintainer of the OpositandoPN platform: [opositandopn.com](https://opositandopn.com/)  
-
-OpositandoPN is a virtual platform where students can complement their preparation for the knowledge test required to enrol in the Spanish National Police Academy written in React + .NET Core.
-
-#### Scribe
-
-A simple VSTS Release event integration with Freshservice written in Go, check out the code: https://github.com/echosergio/scribe
-
 ### 🌱 I’m currently learning
 
 - The [Go](https://golang.org/) Programming Language
@@ -35,4 +23,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🚀 Personal projects
+
+#### OpositandoPN
+
+Creator and maintainer of the OpositandoPN platform: [opositandopn.com](https://opositandopn.com/)  
+
+OpositandoPN is a virtual platform where students can complement their preparation for the knowledge test required to enrol in the Spanish National Police Academy written in React + .NET Core.
+
+#### Scribe
+
+A simple VSTS Release event integration with Freshservice written in Go, check out the code: https://github.com/echosergio/scribe
 -->

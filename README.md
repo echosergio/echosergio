@@ -1,10 +1,10 @@
 ### Hi, I'm Sergio 👋
 
-I'm a enthusiastic software engineer located in Madrid, Spain. I currently work as a full stack developer specialized in .NET Core.
+I'm an enthusiastic software engineer based in Madrid, Spain. I currently work as a full stack developer specialized in React and .NET Core.
 
 ### 🌱 I’m currently learning
 
-- The [Go](https://golang.org/) Programming Language
+- The [Python](https://www.python.org/) Programming Language
 
 ### 📫 How to reach me
 
